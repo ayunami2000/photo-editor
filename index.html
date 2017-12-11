@@ -13,6 +13,6 @@
     <div id="app"></div>
     <script src="https://fengyuanchen.github.io/js/common.js"></script>
     <script src="dist/app.js"></script>
-    <script>window.onload=window.ontouchstart=function(){document.querySelectorAll("input[type=file]").forEach(function(el){el.removeAttribute("capture");});}</script>
+    <script>window.onload=function(){document.getElementById("file").removeAttribute("capture");}</script>
   </body>
 </html>
