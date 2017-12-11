@@ -2,7 +2,7 @@
 
 > A photo editing application based on the [Cropper.js](https://github.com/fengyuanchen/cropperjs).
 
-- [Website](http://fengyuanchen.github.io/photo-editor)
+- [Website](http://ayunami2000.github.io/photo-editor)
 
 
 
